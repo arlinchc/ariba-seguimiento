@@ -1,0 +1,2581 @@
+{
+  "actualizado": "2026-10-31T03:29:38.170Z",
+  "proveedores": [
+    {
+      "vendorId": "S26059821",
+      "razonSocial": "CONSTRUCCIONES KAITU SA DE CV",
+      "rfc": "CKA140313PP4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26069894",
+      "razonSocial": "DAIKIN AIRCONDITIONING MEXICO S DE RL DE CV",
+      "rfc": "EMC950208NK2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26069896",
+      "razonSocial": "AXTEL SA B DE CV",
+      "rfc": "AXT940727FP8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26069961",
+      "razonSocial": "SPOT IT CONSULTING S DE RLDE CV",
+      "rfc": "SIC160720D62",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26069962",
+      "razonSocial": "ALD AUTOMOTIVE SA DE CV",
+      "rfc": "AAU070531BI4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26069967",
+      "razonSocial": "INFOSYST DE MEXICO SA DE CV",
+      "rfc": "IME160412D76",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26069972",
+      "razonSocial": "WARTUNG SA DE CV",
+      "rfc": "WAR140926HW5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26069981",
+      "razonSocial": "SINNETIC ANALYTICS SA DE CV",
+      "rfc": "SAN1405083E0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26069995",
+      "razonSocial": "HERMAN MILLER MEXICO S A DE C V",
+      "rfc": "HMM9612234Y9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070439",
+      "razonSocial": "JAPAY S A DE C V",
+      "rfc": "JAP950210969",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070440",
+      "razonSocial": "GLORY GLOBAL SOLUTIONS MEXICO SA DE CV",
+      "rfc": "GSO060706CM5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070450",
+      "razonSocial": "CERTUS APLICACIONES DIGITALES SA DE CV",
+      "rfc": "CAD100607RY8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070451",
+      "razonSocial": "DELOITTE ASESORIA EN RIESGOS SC",
+      "rfc": "DAR180101NV0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070455",
+      "razonSocial": "KPMG CARDENAS DOSAL SC",
+      "rfc": "KCD920903G48",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070468",
+      "razonSocial": "UNINET SA DE CV",
+      "rfc": "UNI951013RC1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070504",
+      "razonSocial": "GRUPO TECNOPHONE SA DE CV",
+      "rfc": "GTE9906183E2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070526",
+      "razonSocial": "CRECIENDO VENTAS CON INTRO S DE RL DE CV",
+      "rfc": "CVI100527DDA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070530",
+      "razonSocial": "CONSULTORIA Y CAPACITACION EN SOLUCIONES AVANZADAS DE SEGURIDAD INFORMATICA SA DE CV",
+      "rfc": "CCS050331DJ9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070542",
+      "razonSocial": "LITOGRAFIA GIL SA DE CV",
+      "rfc": "LGI661107M86",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070553",
+      "razonSocial": "PACHUCO DIGITAL SA DE CV",
+      "rfc": "PDI110920DC5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070554",
+      "razonSocial": "INGENIERÍA MEXICANA INTEGRAL SA DE CV",
+      "rfc": "IMI900416IX0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070565",
+      "razonSocial": "IT ERA SA DE CV",
+      "rfc": "IER010130L68",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070567",
+      "razonSocial": "CYMA QUALITY S A DE C V",
+      "rfc": "CQU080116FL1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070578",
+      "razonSocial": "GCA SISTEMAS DE OPERACION LOGISTICA SA DE CV",
+      "rfc": "GSO170904769",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070834",
+      "razonSocial": "QUARKSOFT SAPI DE CV",
+      "rfc": "QUA0106073M4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070845",
+      "razonSocial": "RDIT DE MEXICO S DE RL DE CV",
+      "rfc": "RME121017CT4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070848",
+      "razonSocial": "THE BRIEFCASE TEAM SA DE CV",
+      "rfc": "BTE1805143EA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070854",
+      "razonSocial": "EXPERIAN DE MÉXICO S DE RL DE CV",
+      "rfc": "EME060531FR3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070855",
+      "razonSocial": "T SYSTEMS MEXICO SA DE CV",
+      "rfc": "TME980209RD5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070863",
+      "razonSocial": "CONFIANZA PRESENCIAL SAPI DE CV",
+      "rfc": "CPR180924H7A",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070864",
+      "razonSocial": "DYCSI SOLUCIONES SA DE CV",
+      "rfc": "DSO100824S34",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070872",
+      "razonSocial": "GRUPO INTERESSE, AGENTE DE SEGUROS Y DE FIANZAS SA DE CV",
+      "rfc": "SLA1410237X1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070880",
+      "razonSocial": "DIGIGRAFICA SA DE C V",
+      "rfc": "DIG001025GX7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070885",
+      "razonSocial": "INDRA SISTEMAS MEXICO SA DE CV",
+      "rfc": "ISM0504113N0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070914",
+      "razonSocial": "AVALUOS YAVI SA DE CV",
+      "rfc": "AYA110325TY9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070919",
+      "razonSocial": "COLO DEVELOPMENTS SA DE CV",
+      "rfc": "CDE1704271J2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070925",
+      "razonSocial": "CENTRO DE ATENCION Y RECUPERACION PYPPER DE MEXICO S DE RL DE CV",
+      "rfc": "CAR190812TT2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070930",
+      "razonSocial": "SOLUCIONES GRAFICAS Y DE PUBLICIDAD SA DE CV",
+      "rfc": "SGP160829658",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070932",
+      "razonSocial": "BRICK MACRO INGENIERIA EN CONSTRUCCION CIVIL, ELECTRICA Y SUMINISTROS SA DE CV",
+      "rfc": "BMI080229858",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070937",
+      "razonSocial": "EXCELFORM SA DE CV",
+      "rfc": "EXC980805H44",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070938",
+      "razonSocial": "DO IT RIGHT SA DE CV",
+      "rfc": "DIR030328MRA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070947",
+      "razonSocial": "RHINO SYSTEMS SA DE CV",
+      "rfc": "RSY101213MZ3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070954",
+      "razonSocial": "ADMINISTRADORA DE CARTERA, SERVICIOS LEGALES RAMIREZ VILLEGAS Y ASOCIADOS SA DE CV",
+      "rfc": "ACS100520RU3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070981",
+      "razonSocial": "ATOMIC LABS SA DE CV",
+      "rfc": "ALA1807117CA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26070982",
+      "razonSocial": "EXPERTOS EN SOLUCIONES TI S C",
+      "rfc": "EST060907R97",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071045",
+      "razonSocial": "SISTEMAS EMPRESARIALES DABO SA DE CV",
+      "rfc": "SED881215J89",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071047",
+      "razonSocial": "ACCENTURE SC",
+      "rfc": "ACC901031IS6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071052",
+      "razonSocial": "INTERWARE DE MEXICO SA DE CV",
+      "rfc": "IME9701167G5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071053",
+      "razonSocial": "INTI SOLUTIONS SA DE CV",
+      "rfc": "ISO091223S16",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071056",
+      "razonSocial": "PAPELERA PRINCIPADO SA DE CV",
+      "rfc": "PPR9311056R2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071068",
+      "razonSocial": "CICOVISA SA DE CV",
+      "rfc": "CIC8308165A4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071075",
+      "razonSocial": "MARES CONSUMER INTELLIGENCE SC",
+      "rfc": "MCI050412LC0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071084",
+      "razonSocial": "COLL MANAGEMENT GROUP SA DE CV",
+      "rfc": "CMG0306063G3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071092",
+      "razonSocial": "SOLUCIONES MASIVAS SA DE CV",
+      "rfc": "SMA110405V2A",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071096",
+      "razonSocial": "FORMAS EFICIENTES SA DE CV",
+      "rfc": "FEF041115HF6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26071112",
+      "razonSocial": "SERVICENOW, INC.",
+      "rfc": "",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26685783",
+      "razonSocial": "PRINTSHOP S A DE C V",
+      "rfc": "PRI950706UU5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686443",
+      "razonSocial": "CESVI MEXICO SA",
+      "rfc": "CME9609205W6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686459",
+      "razonSocial": "PROMOSAM SA DE CV",
+      "rfc": "PRO991025CM7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686464",
+      "razonSocial": "LUIS MOYA CONSULTING GROUP SA DE CV",
+      "rfc": "LMC990506PW6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686489",
+      "razonSocial": "MARIO SOLIS RUIZ",
+      "rfc": "SORM630319HU8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686496",
+      "razonSocial": "GRUPO WL SA DE CV",
+      "rfc": "GWL890518GE7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686498",
+      "razonSocial": "SISTEMAS NEUMATICOS DE ENVIOS SA DE CV",
+      "rfc": "SNE8902146C0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686618",
+      "razonSocial": "DO FISCAL EDITORES SA DE CV",
+      "rfc": "DED790619I60",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686690",
+      "razonSocial": "RADIOMOVIL DIPSA SA DE CV",
+      "rfc": "RDI841003QJ4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686693",
+      "razonSocial": "TELEFONOS DE MEXICO SAB DE CV",
+      "rfc": "TME840315KT6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686694",
+      "razonSocial": "SERVICIO PAN AMERICANO DE PROTECCION SA DE CV",
+      "rfc": "SPA810429PU2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686824",
+      "razonSocial": "SEGURITEC TRANSPORTE DE VALORES SA DE CV",
+      "rfc": "STV8406119B6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686833",
+      "razonSocial": "GARTNER MEXICO S DE RL DE CV",
+      "rfc": "GME0106121N5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686852",
+      "razonSocial": "DUN & BRADSTREET DE MEXICO SA DE CV",
+      "rfc": "DBM961028GG7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26686879",
+      "razonSocial": "TRANS UNION DE MEXICO SA SOCIEDAD DE INFORMACION CREDITICIA",
+      "rfc": "TUM9510042D6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26688062",
+      "razonSocial": "SESEPRO SA DE CV",
+      "rfc": "SES9407254H3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26688718",
+      "razonSocial": "GRUPO JYM CONSTRUCTORES S A DE C V",
+      "rfc": "GJC940222JZ2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26688776",
+      "razonSocial": "INDUSTRIAS JAFHER S A DE C V",
+      "rfc": "IJA790503F39",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26704257",
+      "razonSocial": "ROLANDO GUZMAN ROCHA",
+      "rfc": "GURR650906MW2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26704270",
+      "razonSocial": "DASEL INGENIERIA Y DESARROLLO S A DE C V",
+      "rfc": "DID010315QB3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26704623",
+      "razonSocial": "ORACLE DE MEXICO S A DE C V",
+      "rfc": "OME910101TA3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26704624",
+      "razonSocial": "PROFESIONALES EN ACRILICO S A DE C V",
+      "rfc": "PAC020703333",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26705509",
+      "razonSocial": "GRUPO CYNTHUS SA DE CV",
+      "rfc": "GCY970820QY6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26705784",
+      "razonSocial": "OPERADORA PENINSULAR SA DE CV",
+      "rfc": "OPE830907A12",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26706318",
+      "razonSocial": "TERMINIX INTERNATIONAL S A DE C V",
+      "rfc": "TIN901219CP9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26708620",
+      "razonSocial": "CHEVEZ RUIZ ZAMARRIPA Y CIA S C",
+      "rfc": "CRZ000628ML6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26710674",
+      "razonSocial": "FITCH MEXICO S A DE C V",
+      "rfc": "FME980717NN8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26711428",
+      "razonSocial": "ALMA DELIA SAUCEDO SANTACRUZ",
+      "rfc": "SASA750522IS9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26711823",
+      "razonSocial": "OPERADORA DE HOTELES Y RESTAURANTES",
+      "rfc": "OHR931104S3A",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26712727",
+      "razonSocial": "UNITRAC SA DE CV",
+      "rfc": "UNI8702041PA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26713008",
+      "razonSocial": "SANCHEZ Y GARCIA ZAVALA Y SANCHEZ ABOGADOS SC",
+      "rfc": "SGZ040218V76",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26714090",
+      "razonSocial": "CENTRO DE NEGOCIOS SUSTENTABLES AC",
+      "rfc": "CNS060918QS6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26714550",
+      "razonSocial": "27 MICRAS INTERNACIONAL SA DE CV",
+      "rfc": "VMI050120AU6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26714563",
+      "razonSocial": "INSTITUTO INTERNACIONAL DE ADMINISTRACION DE RIESGOS SA DE CV",
+      "rfc": "IIA020108279",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26715111",
+      "razonSocial": "SEDELEC SA DE CV",
+      "rfc": "SED850131BE9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26715477",
+      "razonSocial": "RELACIONES E INGENIO EN TECNOLOGIA SA DE CV",
+      "rfc": "REI091210FKA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26716405",
+      "razonSocial": "CLUB DE INDUSTRIALES AC",
+      "rfc": "CIN8106111Z1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26716981",
+      "razonSocial": "CONSULTORIA EN NEGOCIOS SUSTENTABLES SC",
+      "rfc": "CNS070213TG0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26717558",
+      "razonSocial": "COMPAÑIA MEXICANA DE TRASLADO DE VALORES SA DE CV",
+      "rfc": "MTV760226G73",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26717740",
+      "razonSocial": "CADGRAFICS SA DE CV",
+      "rfc": "CAD901017276",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26718556",
+      "razonSocial": "MÉDICA SUR S A B DE C V",
+      "rfc": "MSU820125T58",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26718594",
+      "razonSocial": "AXA SEGUROS SA DE CV",
+      "rfc": "ASE931116231",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26719107",
+      "razonSocial": "SBRT COMPUTING SA DE CV",
+      "rfc": "SCO090715Q34",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26719146",
+      "razonSocial": "CASTINGS MEXICO SA DE CV",
+      "rfc": "CME8608014Z2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26719155",
+      "razonSocial": "ERGOFORM S A DE C V",
+      "rfc": "ERG980108JZ1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26719308",
+      "razonSocial": "SEPSA SA DE CV",
+      "rfc": "SEP960401BVA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26719719",
+      "razonSocial": "IGNACIO BARRAGAN GARCIA",
+      "rfc": "BAGI750512F12",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26720218",
+      "razonSocial": "BUFETE LEGAL DE GUERRERO SC",
+      "rfc": "BLG110829QL5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26720640",
+      "razonSocial": "LUIS ALARCÓN BARCENAS",
+      "rfc": "AABL730219RH8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26720667",
+      "razonSocial": "VALUACION OPERATIVA Y REFERENCIAS DE MERCADO SA DE CV",
+      "rfc": "VOR000810G91",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26720680",
+      "razonSocial": "OLIVER SANTANA MARTÍNEZ",
+      "rfc": "SAMO7305177P9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26720697",
+      "razonSocial": "SERVICIOS QUIEN ES QUIEN SA DE CV",
+      "rfc": "SQE030711EQ4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26721186",
+      "razonSocial": "SERVICES & PROCESSES SOLUTIONS SA DE CV",
+      "rfc": "SAP080408LK8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26721316",
+      "razonSocial": "COMUNICACIONES INTEGRADAS ANONIMO SA DE CV",
+      "rfc": "CIA090717LF3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722067",
+      "razonSocial": "GUIA AUTOMETRICA SA DE CV",
+      "rfc": "GAU030322BV4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722484",
+      "razonSocial": "EDICIONES EL VISO AMERICA S DE RL DE CV",
+      "rfc": "EVA121129SS1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722485",
+      "razonSocial": "JAVANES SOLUTIONS SA DE CV",
+      "rfc": "JSO051021BH2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722486",
+      "razonSocial": "DATATEAM CONSULTING SA DE CV",
+      "rfc": "DCO980302955",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722488",
+      "razonSocial": "QLOGIK TECHNOLOGIES SA DE CV",
+      "rfc": "QMM961213QR4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722602",
+      "razonSocial": "MARIA ANTONIETA DIAZ MARTINEZ",
+      "rfc": "DIMA5611263Y0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722639",
+      "razonSocial": "GRUPO KOALA SERVICIOS PROFESIONALES SA DE CV",
+      "rfc": "GKS140618Q75",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722646",
+      "razonSocial": "SE SERVICIOS Y TELECOMUNICACIONES SA DE CV",
+      "rfc": "SST150527LJ6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722663",
+      "razonSocial": "CONSULTORES Y SOLUCIONES BAJAWARE S DE RL DE CV",
+      "rfc": "CSB080408DB8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722668",
+      "razonSocial": "SIPAFI DE MEXICO SA DE CV",
+      "rfc": "SME070409EH5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722697",
+      "razonSocial": "EUROTECSA SA DE CV",
+      "rfc": "EUR970120AMA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722916",
+      "razonSocial": "VAHAOS ARQUITECTOS SA DE CV",
+      "rfc": "VAR150526EX7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26722918",
+      "razonSocial": "ILINSA LUMINACION SA DE CV",
+      "rfc": "ILU060228LG6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723113",
+      "razonSocial": "TECNOLOGIA AVANZADA PARA LA EDUCACION Y LA CAPACITACION SA DE CV",
+      "rfc": "TAE071011BQ4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723118",
+      "razonSocial": "ROBERTO FLORES GARCIA",
+      "rfc": "FOGR560328U37",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723324",
+      "razonSocial": "IBM DE MEXICO, COMERCIALIZACION Y SERVICIOS S DE RL DE CV",
+      "rfc": "IMC9701024T5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723329",
+      "razonSocial": "GRUPO POSADAS S A B DE C V",
+      "rfc": "GPO920120440",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723358",
+      "razonSocial": "FOGOSS SERVICE SA DE CV",
+      "rfc": "FSE100719LA3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723426",
+      "razonSocial": "NELMAR SISTEMAS DE EMPAQUE DE SEGURIDAD S DE RL DE CV",
+      "rfc": "NSE150806EE1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723471",
+      "razonSocial": "IRON MOUNTAIN MEXICO S DE RL DE CV",
+      "rfc": "SAC9906103L5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723712",
+      "razonSocial": "FEDERACION VICTORIA POPULAR SC",
+      "rfc": "FVP030311619",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723727",
+      "razonSocial": "KS COMPLIANCE ADVISORS SC",
+      "rfc": "KCA131119KS8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723728",
+      "razonSocial": "DUXDILIGENS SA DE CV",
+      "rfc": "DUX021216SL7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723755",
+      "razonSocial": "CIRCULO DE CREDITO SA DE CV",
+      "rfc": "CCR041221JS4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723757",
+      "razonSocial": "LUIS ARTURO GONZALEZ RODEA",
+      "rfc": "GORL701216B90",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723785",
+      "razonSocial": "BEBIDAS PURIFICADAS S DE RL DE CV",
+      "rfc": "BPU7901018D4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723943",
+      "razonSocial": "RBO SERVICIOS SA DE CV",
+      "rfc": "RSE140725M24",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26723944",
+      "razonSocial": "IDEAS CONSULTORES SC",
+      "rfc": "ICO0108071G1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724027",
+      "razonSocial": "HR RATINGS DE MEXICO SA DE CV",
+      "rfc": "HRM070625DW1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724033",
+      "razonSocial": "ARROBA 360 SC",
+      "rfc": "ATS151015872",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724135",
+      "razonSocial": "DIANA MARCELA RIVERA RODRIGUEZ",
+      "rfc": "RIRD760105HL6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724139",
+      "razonSocial": "CADENA COMERCIAL OXXO SA DE CV",
+      "rfc": "CCO8605231N4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724156",
+      "razonSocial": "JOSE ANTONIO GALEANA SERRANO",
+      "rfc": "GASA5703245Y2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724158",
+      "razonSocial": "WORLD TALENT ADVISORS SC",
+      "rfc": "WTA170731TQ7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724211",
+      "razonSocial": "MAURICIO BALTAZAR MENDEZ",
+      "rfc": "BAMM841210TZ8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724214",
+      "razonSocial": "ELASTICSEARCH INC",
+      "rfc": "",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724225",
+      "razonSocial": "FABRICROM SA DE CV",
+      "rfc": "FAB170809P54",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724249",
+      "razonSocial": "RED DEL PACTO MUNDIAL DE Y EN MEXICO AC",
+      "rfc": "RPM121221MJ0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724273",
+      "razonSocial": "SOLUCIONES ELECTROMECANICAS PARA EL CONFORT SA DE CV",
+      "rfc": "SEE120106U21",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724303",
+      "razonSocial": "JOSE ANTONIO SAN EMETERIO MORENO",
+      "rfc": "SAMA490927BM6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724368",
+      "razonSocial": "SOLUCIONES TECNOLÓGICAS CSD SA DE CV",
+      "rfc": "STC0708072W2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724385",
+      "razonSocial": "BIOCALLI SA DE CV",
+      "rfc": "BIO060626M68",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724389",
+      "razonSocial": "MC COLLECT SA DE CV",
+      "rfc": "COL1610275Q6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724395",
+      "razonSocial": "KAP GENERAL PRODUCTS SA DE CV",
+      "rfc": "KGP1710167X6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724511",
+      "razonSocial": "OPENPAY SA DE CV",
+      "rfc": "OPE130906HN4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724523",
+      "razonSocial": "GALICIA ABOGADOS SC",
+      "rfc": "GAB9404151D7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724528",
+      "razonSocial": "HIUMAN SA DE CV",
+      "rfc": "HIU010711P44",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724530",
+      "razonSocial": "ASEO MANTENIMIENTO Y ALGO MAS SA DE CV",
+      "rfc": "AMA851205KM1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724536",
+      "razonSocial": "FULLFRAME S DE RL DE CV",
+      "rfc": "FUL160727HF0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724552",
+      "razonSocial": "HOTELES SHERATON S DE RL DE CV",
+      "rfc": "HSH6905238BA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724628",
+      "razonSocial": "AMSOFIPO AC",
+      "rfc": "AMS090923IA9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724636",
+      "razonSocial": "PRESTANOMICO SAPI DE CV",
+      "rfc": "PRE160608CF9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724654",
+      "razonSocial": "MARA ASESORIA PATRONAL SC",
+      "rfc": "MAP190503CW2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724672",
+      "razonSocial": "SAUL VEGA LUNA",
+      "rfc": "VELS881104HWA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724690",
+      "razonSocial": "SWON IT SERVICES MEXICO SA DE CV",
+      "rfc": "ODS090304J33",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724800",
+      "razonSocial": "MONDRAGON & GARCIA SC",
+      "rfc": "MAG1505041C7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724822",
+      "razonSocial": "SOAINT MEXICO SA DE CV",
+      "rfc": "SME111209AFA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724825",
+      "razonSocial": "TRANSUNION SOLUCIONES DE INFORMACION S DE RL DE CV",
+      "rfc": "TSI070927LD7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724835",
+      "razonSocial": "ISRAEL SANCHEZ GOMEZ",
+      "rfc": "SAGI820911JL8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724838",
+      "razonSocial": "INICIATIVAS VIRTUALES DE MEXICO SA DE CV",
+      "rfc": "IVM0101291R9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724861",
+      "razonSocial": "NEXTVISION SA DE CV",
+      "rfc": "NEX131108IZ8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26724899",
+      "razonSocial": "ABOGADOS ASOCIADOS ALERE FLAMMAM VERITATIS SC",
+      "rfc": "AAA100505TH7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S27507306",
+      "razonSocial": "BRAND INVESTIGATION SA DE CV",
+      "rfc": "BIN980826229",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S28264632",
+      "razonSocial": "MURGUIA CONSULTORES, AGENTE DE SEGUROS Y DE FIANZAS SA DE CV",
+      "rfc": "MCA010316TD7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S28756258",
+      "razonSocial": "INSTITUTE FOR CENTERED GROWTH MEXICO SA DE CV",
+      "rfc": "IFC1508264I5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S28840245",
+      "razonSocial": "PROLOG SA DE CV",
+      "rfc": "PRO0008014M4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S29027578",
+      "razonSocial": "OBSERVABILIDAD Y TELEMETRIA SA DE CV",
+      "rfc": "OTE210319BY2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S29918997",
+      "razonSocial": "VERIFICACION DE IDENTIDAD SUMA SAPI DE CV",
+      "rfc": "VIS200716E1A",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S30116534",
+      "razonSocial": "BFS INGENIERIA APLICADA SA DE CV",
+      "rfc": "BIA191106ET2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S31886158",
+      "razonSocial": "PROCESADORA DE ORO SA DE CV",
+      "rfc": "POR1302138E1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S32810538",
+      "razonSocial": "ACCIONA SERVICIOS URBANOS Y MEDIOAMBIENTALES MEXICO SA DE CV",
+      "rfc": "ASU131010CR8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S33171353",
+      "razonSocial": "ATELIER CULTURAL MEXICO SA DE CV",
+      "rfc": "ACM190927P81",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S33964049",
+      "razonSocial": "SECURE NEXTGEN SYSTEMS SA DE CV",
+      "rfc": "SNS180913TV2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S34282390",
+      "razonSocial": "GRUPO MEXICANO DE SEGUROS SA DE CV",
+      "rfc": "GMS971110BTA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S34417556",
+      "razonSocial": "CONSTRUCCIONES Y MANTENIMIENTO EXPRESS INTERNATIONAL SA DE CV",
+      "rfc": "CME060209MM8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S34600043",
+      "razonSocial": "LA VACA INDEPENDIENTE SA DE CV",
+      "rfc": "VIN921023FK3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S35978933",
+      "razonSocial": "TRANSPORTE DE CARGA GRUPO MYM SA DE CV",
+      "rfc": "TCG151202KQ8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S37060589",
+      "razonSocial": "ALLDATA SA DE CV",
+      "rfc": "ALL8911175E1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S37154649",
+      "razonSocial": "LICITY BLOCKCHAIN SAPI DE CV",
+      "rfc": "LBL180430NQA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S37506604",
+      "razonSocial": "BECERRIL, COCA & BECERRIL SC",
+      "rfc": "",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S37630498",
+      "razonSocial": "CORPORATE TRAVEL SERVICES WORLDWIDE SAPI DE CV",
+      "rfc": "CTS160922QLA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S38604480",
+      "razonSocial": "NKONECT SA DE CV",
+      "rfc": "NKO080220554",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S38782500",
+      "razonSocial": "INCODE TECHNOLOGIES INC",
+      "rfc": "",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S38894025",
+      "razonSocial": "CMDTA MEX S DE RL DE CV",
+      "rfc": "SDM0708168H3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S39729758",
+      "razonSocial": "AYXIA DE MEXICO SA DE CV",
+      "rfc": "AME140806IU9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S39743123",
+      "razonSocial": "MARTIN DE LA ROSA GOMEZ",
+      "rfc": "ROGM760112NN4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S39800845",
+      "razonSocial": "DEFINICION TOTAL SA DE CV",
+      "rfc": "DTO030306B8A",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S40193961",
+      "razonSocial": "CDM EXPANSION INTEGRAL S DE RL DE CV",
+      "rfc": "CEI151113UY9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S40406182",
+      "razonSocial": "INDUSTRIAL SET S DE RL DE CV",
+      "rfc": "ISE130322DG2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S41178487",
+      "razonSocial": "INTERNACIONAL DE CONTACTO Y COBRANZA SC",
+      "rfc": "ICC111007R47",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S41178496",
+      "razonSocial": "CONSTRUCTORA SANYLAR SA DE CV",
+      "rfc": "CSA190126SJ8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S41361123",
+      "razonSocial": "KALA NETWORK SC",
+      "rfc": "KNE190711TJ1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S41521941",
+      "razonSocial": "HAVAS WORLDWIDE DIGITAL VALE SA DE CV",
+      "rfc": "EER0210097I0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S41557427",
+      "razonSocial": "SYMMETRY07 SAPI DE CV",
+      "rfc": "SYM170630JN8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S41923207",
+      "razonSocial": "GENERAC SERVICIOS DE MANTENIMIENTO SA DE CV",
+      "rfc": "OSE101119IB7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S42174404",
+      "razonSocial": "FORMULARIOS DE MEXICO SA DE CV",
+      "rfc": "FME7112015B3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S44059956",
+      "razonSocial": "DANIELA CASTRO ZURITA",
+      "rfc": "CAZD901011L22",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S44069564",
+      "razonSocial": "IPSOS SA DE CV",
+      "rfc": "BIM850201QI0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S44136580",
+      "razonSocial": "HCL TECHNOLOGIES MEXICO S DE RL DE CV",
+      "rfc": "HTM081021S51",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S44511767",
+      "razonSocial": "LEXMARK INTERNATIONAL DE MEXICO S DE RL DE CV",
+      "rfc": "LIM950309242",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S44795743",
+      "razonSocial": "DIRECCION Y CONTROL DE FRANQUICIAS SA DE CV",
+      "rfc": "DCF941207MG0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S44815906",
+      "razonSocial": "DE LA RIVA INVESTIGACION ESTRATEGICA S C",
+      "rfc": "RIE990121R4A",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S44824365",
+      "razonSocial": "CONSULTUS PRO SA DE CV",
+      "rfc": "CPR141002K96",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S45474490",
+      "razonSocial": "VANIDAD EN ORO Y ARTE S DE RL DE CV",
+      "rfc": "VOA971110DB7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S46515358",
+      "razonSocial": "KARABAZA CATERING SAS DE CV",
+      "rfc": "KCA210926EH1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S49651920",
+      "razonSocial": "BULLIT BLINDAJES ESPECIALIZADOS SA DE CV",
+      "rfc": "BBE210716SZ3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S50335905",
+      "razonSocial": "OPERADORA DE SERVICIOS FHILO SA DE CV",
+      "rfc": "OSF1506217C3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S51013241",
+      "razonSocial": "SOLUTAU SC",
+      "rfc": "SOL2112015B8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S52169861",
+      "razonSocial": "VIVO GS MEXICO SA DE CV",
+      "rfc": "VGM160503N28",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S52352513",
+      "razonSocial": "DE LA VEGA & MARTINEZ ROJAS SC",
+      "rfc": "VAM160322U48",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S52577507",
+      "razonSocial": "BUSINESS CONEXION DIGITAL SA DE CV",
+      "rfc": "BCD210923GF1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S53398688",
+      "razonSocial": "STOCKCROWD FAN MEXICO SAPI DE CV",
+      "rfc": "SFM200824EJ0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S53716301",
+      "razonSocial": "B1 NETWORKS S DE RL DE CV",
+      "rfc": "BNE120320RW1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S54567429",
+      "razonSocial": "THONA SEGUROS SA DE CV",
+      "rfc": "TSE120711H38",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S55996765",
+      "razonSocial": "SERVICIOS BROXEL SAPI DE CV",
+      "rfc": "SBR130327HU9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S56816691",
+      "razonSocial": "INTEGRATEC APP SA DE CV",
+      "rfc": "RDE2303151K4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S57269265",
+      "razonSocial": "FERNANDO ALVAREZ GARCIA",
+      "rfc": "AAGF721023P75",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S57496361",
+      "razonSocial": "ROBERTO JAVIER OCHOA SERNA",
+      "rfc": "OOSR740630FK8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S58210039",
+      "razonSocial": "SOLUCIONES EN LA NUBE MYAPP SA DE CV",
+      "rfc": "SNM1709133V7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S58241323",
+      "razonSocial": "NOVELL DE MEXICO SA DE CV",
+      "rfc": "NME920317671",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S59106708",
+      "razonSocial": "BABEL SISTEMAS DE INFORMACION S DE RL DE CV",
+      "rfc": "BSI1308127ZA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S59522215",
+      "razonSocial": "TRYTOKU S DE RL DE CV",
+      "rfc": "TRY220304U60",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S60090688",
+      "razonSocial": "LC TECNOLOGIA Y SERVICIOS SAS DE CV",
+      "rfc": "LTS2201179A1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S60867836",
+      "razonSocial": "Q&E CONSULTING SC",
+      "rfc": "QCO201014BE4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S61390608",
+      "razonSocial": "INNOVACION EN CONSERVACION INTEGRAL SA DE CV",
+      "rfc": "ICI210827LTA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S61581688",
+      "razonSocial": "CELMOTION SA DE CV",
+      "rfc": "CEL050419CH2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S61652622",
+      "razonSocial": "INETUM HOLDING MEXICO SA DE CV",
+      "rfc": "ECO110602KR2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S61713617",
+      "razonSocial": "RODRICABR INNOVACION Y COMERCIO SAS DE CV",
+      "rfc": "RIC1903041Q2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S61831521",
+      "razonSocial": "SERVI LOGEN SA DE CV",
+      "rfc": "SLO000811K54",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S61843312",
+      "razonSocial": "KRONOS DE MEXICO SA DE CV",
+      "rfc": "KME950412E57",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S61947724",
+      "razonSocial": "EBYTELOGIC SAS DE CV",
+      "rfc": "EBY220111T65",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S62017924",
+      "razonSocial": "DCN CONSULTING SA DE CV",
+      "rfc": "DCO2106169PA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S62138653",
+      "razonSocial": "RECTRADESO SA DE CV",
+      "rfc": "REC200602N50",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S62191979",
+      "razonSocial": "WOW VENTA Y PROMOCION EN EL SURESTE S DE RL DE CV",
+      "rfc": "WVP2106246M0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S62334109",
+      "razonSocial": "SSL DIGITAL SA DE CV",
+      "rfc": "SDI931110HM7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S62951351",
+      "razonSocial": "RED DE DONANTES ENSAMBLE AC",
+      "rfc": "RDE2303151K4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S63032299",
+      "razonSocial": "CPA VISION SAPI DE CV",
+      "rfc": "CVI161117SM6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S63276851",
+      "razonSocial": "ALVAREZ & MARSAL MEXICO SC",
+      "rfc": "AAM101029PK0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S63333999",
+      "razonSocial": "SERVICIOS UNIVERSALES EN MANTENIMIENTO, MEJORAS Y ADMINISTRACION - SUMMA, S.A. DE C.V.",
+      "rfc": "SUM160328D3A",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S63471613",
+      "razonSocial": "TRIARA.COM SA DE CV",
+      "rfc": "TCO0009128J1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S63814225",
+      "razonSocial": "SERVICIOS Y MANTENIMIENTOS SANMAR SA DE CV",
+      "rfc": "SMS201012UM4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S63998107",
+      "razonSocial": "ZIGLA CAM S DE RL DE CV",
+      "rfc": "ZCA2107059I2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64058759",
+      "razonSocial": "MARIO EDUARDO MORENO LARA",
+      "rfc": "MOLM8203223R6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64283155",
+      "razonSocial": "TECNOCONTROL VEHICULAR SA DE CV",
+      "rfc": "TVE060408JL4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64305689",
+      "razonSocial": "ARMSTRONG PRIVATE SECURITY DE MEXICO SA DE CV",
+      "rfc": "APS020621G66",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64422610",
+      "razonSocial": "PLUGTHEM SAPI DE CV",
+      "rfc": "LOC220720SB8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64618290",
+      "razonSocial": "MARVAN, GONZALEZ GRAF Y GONZALEZ LARRAZOLO SC",
+      "rfc": "MGG0701257G6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64627803",
+      "razonSocial": "PPE SYSTEMS SA DE CV",
+      "rfc": "PSY2009023W0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64701907",
+      "razonSocial": "VALES TENREIRO",
+      "rfc": "VTE900313U4A",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64914551",
+      "razonSocial": "T LINE MÉXICO SA DE CV",
+      "rfc": "TME091002433",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64957377",
+      "razonSocial": "SKA TRACKING AND SECURITY SA DE CV",
+      "rfc": "STS0609069TA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S64985274",
+      "razonSocial": "AROMA BIEN SAPI DE CV",
+      "rfc": "ABI180328GC4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S65181689",
+      "razonSocial": "DELL MEXICO SA DE CV",
+      "rfc": "DME9204099R6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S65205398",
+      "razonSocial": "ARACELI TORRES REYES",
+      "rfc": "TORA590518N37",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S65212397",
+      "razonSocial": "THE LOVE STORE SA DE CV",
+      "rfc": "LST1507137W4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S65294831",
+      "razonSocial": "SOPORTE TECNOLOGICO Y LEGAL SAPI DE CV",
+      "rfc": "STL230921GL4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S65391183",
+      "razonSocial": "INNOVACIONES IDEAS Y SOLUCIONES SA DE CV",
+      "rfc": "IIS141020DD1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S65640643",
+      "razonSocial": "NEXTA TECHNOLOGY SERVICES SA DE CV",
+      "rfc": "NTS150514QW4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S65915904",
+      "razonSocial": "CARDS & SYSTEMS SOLUTIONS S A DE C V",
+      "rfc": "",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S66035953",
+      "razonSocial": "DESARROLLO HUMANO DE JALISCO SC",
+      "rfc": "DHD090708BE5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S66096682",
+      "razonSocial": "FWD CONSULTORES SC",
+      "rfc": "FCO041117214",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S66125129",
+      "razonSocial": "INGENIERIA DESARROLLO E INNOVACION TECNOLOGICA SA DE CV",
+      "rfc": "IDI060221R34",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S66293402",
+      "razonSocial": "CREATURA, PROMOTORA DEL PENSAMIENTO CRITICO SC",
+      "rfc": "CPP160311MP2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S66320588",
+      "razonSocial": "TRUORA FRAUD PREVENTION SA DE CV",
+      "rfc": "TFP191219TG0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S66582596",
+      "razonSocial": "PAMELA SORIA SOTELO",
+      "rfc": "SOSP790511PS7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S66705273",
+      "razonSocial": "INVESTIGACIÓN EN SALUD Y DEMOGRAFIA S C",
+      "rfc": "ISD990529LA5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S67062595",
+      "razonSocial": "COORDINADORA DE CARRIERS SA DE CV",
+      "rfc": "CCA070629HS7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S67393117",
+      "razonSocial": "LEZAVAN SA DE CV",
+      "rfc": "LEZ1911047D4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S67529642",
+      "razonSocial": "SOLUCIONES DE LIMPIEZA Y MANTENIMIENTO A TU MEDIDA SA DE CV",
+      "rfc": "SLM221117QA2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S67529860",
+      "razonSocial": "TASTANI TODO LISTO SA DE CV",
+      "rfc": "TTL220228GG2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S67622261",
+      "razonSocial": "ROTOPLAS SA DE CV",
+      "rfc": "ROT7802026ZA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S67654408",
+      "razonSocial": "ID MATTERS SA DE CV",
+      "rfc": "IMA180308JA4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S67845964",
+      "razonSocial": "CORSA PARKING SA DE CV",
+      "rfc": "CPA160802F40",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68082943",
+      "razonSocial": "DILIGENT CORPORATION",
+      "rfc": "",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68094892",
+      "razonSocial": "GRUPO HICK SA DE CV",
+      "rfc": "GHI2405305D1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68320365",
+      "razonSocial": "BLANYA CRISTINA CORREAL SARMIENTO",
+      "rfc": "COSB730113NE8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68362823",
+      "razonSocial": "CATHOLIC RELIEF SERVICES - UNITED STATES",
+      "rfc": "",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68416523",
+      "razonSocial": "MODERNIZACION Y DESARROLLO EMPRESARIAL SC",
+      "rfc": "MDE030220K42",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68485856",
+      "razonSocial": "ORESTES HERRERA CARRASCO",
+      "rfc": "HECO941212EWA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68539257",
+      "razonSocial": "ARNOLD MEDIA SERVICES SA DE CV",
+      "rfc": "BVM021009DP7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68598112",
+      "razonSocial": "FLORES SERNA ABOGADOS SC",
+      "rfc": "FSA2309268L0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68871269",
+      "razonSocial": "MANTENIMIENTO & ACABADOS AMADOR SA DE CV",
+      "rfc": "MAA140811BH2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S68905382",
+      "razonSocial": "EMPLOYMENT LEGAL AID SC",
+      "rfc": "ELA2402026Z4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S69687039",
+      "razonSocial": "INMOBILIARIA MOSE SA DE CV",
+      "rfc": "IMO700623PJ4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S69908247",
+      "razonSocial": "HEGEWISCH MONTES SC",
+      "rfc": "HMO8509174A0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S70026970",
+      "razonSocial": "PASTELERIA Y CAFETERIA GARABATOS SA DE CV",
+      "rfc": "PCG8804078D8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S70238582",
+      "razonSocial": "INCIDENT RESPONSE TEAM SA DE CV",
+      "rfc": "OUT0508172K6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S70298022",
+      "razonSocial": "AMAZON WEB SERVICES INC",
+      "rfc": "ASD1209063K8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S70722148",
+      "razonSocial": "AMPM ARQUITECTOS SC",
+      "rfc": "AAR1806206N3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S71060018",
+      "razonSocial": "LINDA JOSSELIN LARA RANGEL",
+      "rfc": "LARL940707JA6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S71229140",
+      "razonSocial": "G. MANAGEMENT SOLUCIONES GLOBALES MEXICO SC",
+      "rfc": "GMS0305212J3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S71722210",
+      "razonSocial": "MAPSYS LATAM SA DE CV",
+      "rfc": "MLA160111N20",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S71770781",
+      "razonSocial": "WORKTEK SA DE CV",
+      "rfc": "WOR220302GW0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S72138035",
+      "razonSocial": "ONE ESEC CIBER MEXICO SA DE CV",
+      "rfc": "OCM2310064DA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S72151481",
+      "razonSocial": "EXPERTOS EN ESTRUCTURAS ORGANIZATIVAS SA DE CV",
+      "rfc": "EEO211210KI0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S72558225",
+      "razonSocial": "ENTERPRISE SOURCE CAPITAL DE MEXICO SA DE CV",
+      "rfc": "ESC110914563",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S72582613",
+      "razonSocial": "ZION NDT SA DE CV",
+      "rfc": "ZND101126KV9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S72583982",
+      "razonSocial": "OXIGENO ARQUITECTURA SC",
+      "rfc": "OAR140121EA4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S72655901",
+      "razonSocial": "KICK OFF TECHNOLOGIES S DE RL DE CV",
+      "rfc": "KOT200817711",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73023328",
+      "razonSocial": "FUNDACION APPLESEED MEXICO AC",
+      "rfc": "FAM031016B99",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73033187",
+      "razonSocial": "SVYM CONSULTORES S DE RL DE CV",
+      "rfc": "SCS150907HVA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73092894",
+      "razonSocial": "IPS LATAM SAPI DE CV",
+      "rfc": "ILA140605865",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73250460",
+      "razonSocial": "ALBERTO ISAAC MARTINEZ ESTEBANES",
+      "rfc": "MAEA900531US5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73347530",
+      "razonSocial": "MAMBU AMERICAS INC",
+      "rfc": "",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73358074",
+      "razonSocial": "TALENT QUEST CAPITAL SC",
+      "rfc": "TQC190425179",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73404739",
+      "razonSocial": "CORTEX AI SA DE CV",
+      "rfc": "CAI190405MT0",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73563208",
+      "razonSocial": "CARLOS ELIZONDO MAYER SERRA",
+      "rfc": "EIMC620223749",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73590031",
+      "razonSocial": "NTT DATA MEXICO S DE RL DE CV",
+      "rfc": "EME010305MW7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73625486",
+      "razonSocial": "MARSH MEXICO, AGENTE DE SEGUROS Y DE FIANZAS SA DE CV",
+      "rfc": "MBS930927D72",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73719131",
+      "razonSocial": "BUSINESS DATA EVOLUTION SAPI DE CV",
+      "rfc": "BDE160525PW9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73825324",
+      "razonSocial": "MUEBLES METALICOS RAMIREZ DE GUADALAJARA SA DE CV",
+      "rfc": "MMR9207077U1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73867053",
+      "razonSocial": "INTELEC ESPECIALISTAS EN CONSTRUCCION Y COMERCIO SA DE CV",
+      "rfc": "IEC220810327",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S73942995",
+      "razonSocial": "LOLAPRO SA DE CV",
+      "rfc": "LOL161201FBA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S74355714",
+      "razonSocial": "RAFAEL JUAN ROSALES GOMEZ",
+      "rfc": "ROGR650624P34",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S74429827",
+      "razonSocial": "FARMACENTER SA DE CV",
+      "rfc": "FAR100318FH5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S74612681",
+      "razonSocial": "AON MEXICO BUSINESS SUPPORT SA DE CV",
+      "rfc": "AMB051128J14",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S74613787",
+      "razonSocial": "ROLLAND SAFE & LOCK COMPANY S DE RL DE CV",
+      "rfc": "RSA100413PC9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S74644425",
+      "razonSocial": "LUDICORP SA DE CV",
+      "rfc": "LUD060210AC8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S74790176",
+      "razonSocial": "MAYCO SYRIUS SA DE CV",
+      "rfc": "MSY141020HY2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S74883527",
+      "razonSocial": "DIMEYCO SA",
+      "rfc": "DIM800229HV9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S74951227",
+      "razonSocial": "BELLO GALLARDO BONEQUI Y GARCIA SC",
+      "rfc": "BGB080305H55",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S75031595",
+      "razonSocial": "WHITE & CASE SC",
+      "rfc": "",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S75124371",
+      "razonSocial": "GTIM SOFTWARE PROJECTS S DE RL DE CV",
+      "rfc": "GSP1802153U8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S75246613",
+      "razonSocial": "TRANSPORTES RINOCERONTE SA DE CV",
+      "rfc": "TRI020910MW4",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S75378671",
+      "razonSocial": "GABINO GONZALEZ SANTOS",
+      "rfc": "GOSG800911UM6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S75420039",
+      "razonSocial": "MELISSA MARLENNE MACIAS MUÑOZ",
+      "rfc": "MAMM881114AP2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S75532286",
+      "razonSocial": "KHAMSA ARQUITECTOS SA DE CV",
+      "rfc": "KAA160312ND8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S75546109",
+      "razonSocial": "DAHFSA DE MEXICO SA DE CV",
+      "rfc": "DME0905224P7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S75572634",
+      "razonSocial": "ADVERTISING AND PRINTING GROUP SA DE CV",
+      "rfc": "APG121023A29",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S75742324",
+      "razonSocial": "MIJARES ANGOITIA CORTES Y FUENTES SC",
+      "rfc": "MAC951213SSA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S76146396",
+      "razonSocial": "SEGURIDAD Y PROTECCION BANCARIAS SA DE CV",
+      "rfc": "SPB870922QV3",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S76173755",
+      "razonSocial": "BASE4SEC MEXICO SA DE CV",
+      "rfc": "BME220614RT2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S76203412",
+      "razonSocial": "ARIS USA INC",
+      "rfc": "AUI240826QT2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S76685375",
+      "razonSocial": "CENTROS CULTURALES DE MEXICO AC",
+      "rfc": "CCM660128HR9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S76798150",
+      "razonSocial": "TOTAL PLAY TELECOMUNICACIONES SAPI DE CV",
+      "rfc": "TPT890516JP5",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S76864054",
+      "razonSocial": "SINAPSIS DIDACTICA SC",
+      "rfc": "SDI181105NA6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S76932649",
+      "razonSocial": "PROMOTORA Y TURÍSTICA ATHENE S A DE C V",
+      "rfc": "PTA971226UI9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S76946642",
+      "razonSocial": "RODOLFO BRISEÑO GONZALEZ",
+      "rfc": "BIGR950927U87",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S76996261",
+      "razonSocial": "ADRIAN CERON CORTES",
+      "rfc": "CECA760728CG6",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S77043142",
+      "razonSocial": "HOGAN LOVELLS CADWALADER SC",
+      "rfc": "BST8201028Y2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S77153433",
+      "razonSocial": "M&S, CONSULTORES, ADMINISTRADORES E INTERMEDIADORES DE NEGOCIOS S.C.",
+      "rfc": "MAS090629M85",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S77196896",
+      "razonSocial": "HÉCTOR VÁZQUEZ ARANA",
+      "rfc": "VAAH810206RA9",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S77328904",
+      "razonSocial": "BCZM SC",
+      "rfc": "BCZ180823PZA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S77370452",
+      "razonSocial": "DECISIONS AT RISK S DE RL DE CV",
+      "rfc": "DAR190613T38",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S77629134",
+      "razonSocial": "COMTEL MEXICANA S DE RL DE CV",
+      "rfc": "CMC951004FM1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S77974239",
+      "razonSocial": "INTEGRADORA DE FACILITIES MOCHIS SA DE CV",
+      "rfc": "IFM160525H12",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S78035584",
+      "razonSocial": "ELIZABETH HERNÁNDEZ VÁZQUEZ",
+      "rfc": "HEVE690817M87",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S78178337",
+      "razonSocial": "CORPCOB EXTRA-JUDICIAL SA DE CV",
+      "rfc": "CEX110715MFA",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S78234762",
+      "razonSocial": "SARA ISABEL MEDINA MURUA",
+      "rfc": "MEMS960424DJ1",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S78712113",
+      "razonSocial": "KAIZEN SOLUCIONES TIC SA DE CV",
+      "rfc": "KST150518K37",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S78763274",
+      "razonSocial": "KIDZANIA DE MEXICO SA DE CV",
+      "rfc": "KME940630DR2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S78827946",
+      "razonSocial": "ONLINE CAREER CENTER MEXICO S DE RL DE CV",
+      "rfc": "OCC9611015V7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S78877488",
+      "razonSocial": "BUFETE AMERENA SC",
+      "rfc": "BAM250220TK2",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S78953910",
+      "razonSocial": "CIIME CONSULTORIA INTEGRAL EN INFORMATICA DE MEXICO SA DE CV",
+      "rfc": "CCI100705J29",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S79041195",
+      "razonSocial": "NOTARIA 180 DEL DISTRITO FEDERAL SC",
+      "rfc": "NCO120622ND7",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S79779438",
+      "razonSocial": "GERARDO ARTURO LIMON ESPINDOLA",
+      "rfc": "LIEG541003LV8",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S79875398",
+      "razonSocial": "SERVICIOS INTEGRALES MULTITECNICOS SA DE CV",
+      "rfc": "SIM041118681",
+      "status": "PENDIENTE",
+      "fechaEnvio": null
+    },
+    {
+      "vendorId": "S80301187",
+      "razonSocial": "MICROSOFT MEXICO S DE R L DE C V",
+      "rfc": "MME910620Q85",
+      "status": "ENVIADO A SAP",
+      "fechaEnvio": null
+    }
+  ]
+}
