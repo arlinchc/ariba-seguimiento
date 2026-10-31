@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T03:41:35.657Z",
+  "actualizado": "2026-10-31T03:56:45.090Z",
   "proveedores": [
     {
       "vendorId": "S26059821",
@@ -1204,6 +1204,13 @@
       "rfc": "AAA100505TH7",
       "status": "PENDIENTE",
       "fechaEnvio": null
+    },
+    {
+      "vendorId": "S26800785",
+      "razonSocial": "MICROSOFT MEXICO S DE R L DE C V",
+      "rfc": "MME910620Q85",
+      "status": "ENVIADO A SAP",
+      "fechaEnvio": "2026-10-31T03:56:44.083Z"
     },
     {
       "vendorId": "S27507306",
@@ -2568,13 +2575,6 @@
       "razonSocial": "SERVICIOS INTEGRALES MULTITECNICOS SA DE CV",
       "rfc": "SIM041118681",
       "status": "PENDIENTE",
-      "fechaEnvio": null
-    },
-    {
-      "vendorId": "S80301187",
-      "razonSocial": "MICROSOFT MEXICO S DE R L DE C V",
-      "rfc": "MME910620Q85",
-      "status": "ENVIADO A SAP",
       "fechaEnvio": null
     }
   ]
