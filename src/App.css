@@ -1,0 +1,245 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f3f5f9;
+  color: #19243a;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 36px 24px;
+}
+
+.encabezado,
+.panel-encabezado,
+.paginacion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.encabezado {
+  margin-bottom: 28px;
+}
+
+.institucion {
+  color: #9b783e;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+h1 {
+  font-size: 30px;
+  margin: 8px 0;
+}
+
+h2 {
+  margin: 0 0 8px;
+  font-size: 20px;
+}
+
+p {
+  margin: 5px 0;
+  color: #6d7889;
+}
+
+.etiqueta {
+  background: #192b4b;
+  color: white;
+  padding: 12px 18px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.indicadores {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin-bottom: 24px;
+}
+
+.indicador,
+.panel {
+  background: white;
+  border: 1px solid #e4e8ef;
+  border-radius: 14px;
+  box-shadow: 0 3px 12px #172a4510;
+}
+
+.indicador {
+  padding: 22px;
+}
+
+.indicador span {
+  color: #6d7889;
+  font-size: 14px;
+}
+
+.indicador strong {
+  display: block;
+  font-size: 32px;
+  margin-top: 8px;
+  color: #192b4b;
+}
+
+.panel {
+  padding: 24px;
+}
+
+.panel-encabezado small {
+  color: #758095;
+}
+
+.filtros {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 16px;
+  margin: 26px 0;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d8dfeb;
+  border-radius: 8px;
+  background: white;
+  color: #19243a;
+  font-size: 14px;
+}
+
+.tabla-contenedor {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+thead {
+  background: #f3f5f9;
+}
+
+th {
+  text-align: left;
+  color: #59677c;
+  font-size: 12px;
+  text-transform: uppercase;
+  padding: 15px 12px;
+}
+
+td {
+  padding: 16px 12px;
+  border-bottom: 1px solid #edf0f5;
+}
+
+tbody tr:hover {
+  background: #f9fafc;
+}
+
+.vendor {
+  font-weight: bold;
+  color: #294f87;
+  white-space: nowrap;
+}
+
+.estado {
+  display: inline-block;
+  border-radius: 20px;
+  padding: 7px 11px;
+  font-size: 11px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.pendiente {
+  background: #f2f3f5;
+  color: #647084;
+}
+
+.enviado {
+  background: #e4f5e9;
+  color: #237243;
+}
+
+.paginacion {
+  padding-top: 22px;
+  font-size: 13px;
+  color: #667389;
+}
+
+.controles {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+button {
+  border: 1px solid #d9e0ea;
+  background: white;
+  color: #263955;
+  padding: 10px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.vacio {
+  text-align: center;
+  padding: 35px;
+  color: #7a8495;
+}
+
+.error {
+  color: #b42318;
+}
+
+.pie {
+  margin-top: 18px;
+  color: #758095;
+  font-size: 12px;
+}
+
+@media (max-width: 760px) {
+  .encabezado,
+  .panel-encabezado,
+  .paginacion {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .indicadores,
+  .filtros {
+    grid-template-columns: 1fr;
+  }
+
+  .contenedor {
+    padding: 20px 12px;
+  }
+
+  .panel {
+    padding: 16px;
+  }
+}
